@@ -1,0 +1,7 @@
+## Interface: 110005, 110007
+## Title: Full Stack Prices
+## Version: 1.0.1
+## Author: plusmouse, fusoya
+## Notes: A lightweight addon for auctionator that makes alt show a full stack price for vendors or the AH on the tooltip.
+
+Main.lua
