@@ -1,4 +1,4 @@
-GameTooltip:HookScript("OnTooltipSetItem", function(tooltip, ...)
+TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, function(tooltip, data)
   if not IsAltKeyDown() then
     return
   end
